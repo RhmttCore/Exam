@@ -1,0 +1,281 @@
+{
+  "allcommand": [
+    "Menu",
+    "Self",
+    "Flaming1",
+    "Qc",
+    "Bj",
+    "Sc",
+    "Play",
+    "Nino",
+    "Tourl",
+    "Ubahreply",
+    "Doaharian",
+    "Santet",
+    "Ss",
+    "Runtime",
+    "Public",
+    "Tinyurl"
+  ],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [
+    {
+      "cmd": "Menu",
+      "succes": 24,
+      "failed": 1
+    },
+    {
+      "cmd": "Self",
+      "succes": 4,
+      "failed": 0
+    },
+    {
+      "cmd": "Flaming1",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Qc",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Bj",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Sc",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "Play",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Nino",
+      "succes": 4,
+      "failed": 0
+    },
+    {
+      "cmd": "Tourl",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "Ubahreply",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Doaharian",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Santet",
+      "succes": 0,
+      "failed": 8
+    },
+    {
+      "cmd": "Ss",
+      "succes": 2,
+      "failed": 0
+    },
+    {
+      "cmd": "Runtime",
+      "succes": 1,
+      "failed": 0
+    },
+    {
+      "cmd": "Public",
+      "succes": 3,
+      "failed": 0
+    },
+    {
+      "cmd": "Tinyurl",
+      "succes": 1,
+      "failed": 0
+    }
+  ],
+  "listerror": [
+    {
+      "error": "text is not defined",
+      "cmd": "santet"
+    },
+    {
+      "error": "Pe is not defined",
+      "cmd": "santet"
+    },
+    {
+      "error": "connl is not defined",
+      "cmd": "santet"
+    },
+    {
+      "error": "Cannot access 'gasY' before initialization",
+      "cmd": "santet"
+    },
+    {
+      "error": "botname is not defined",
+      "cmd": "santet"
+    },
+    {
+      "error": "nomor is not defined",
+      "cmd": "santet"
+    },
+    {
+      "error": "conn.send5blButGif is not a function",
+      "cmd": "menu"
+    }
+  ],
+  "sticker": {},
+  "audio": {},
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1696922889193,
+      "totalcmd": 69
+    }
+  ],
+  "clearchat": [],
+  "users": {
+    "6289682500330@s.whatsapp.net": {
+      "name": "private bot",
+      "id": "6289682500330",
+      "date": "9 Oktober 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 1,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "XXXJ",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6285773089737@s.whatsapp.net": {
+      "name": "¯⁠◡⁠¯",
+      "id": "6285773089737",
+      "date": "9 Oktober 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 39,
+      "balance": 1000,
+      "limit": 29,
+      "glimit": 30,
+      "serial": "CNAA",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 1696840854877,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6281775445373@s.whatsapp.net": {
+      "name": "LanaX",
+      "id": "6281775445373",
+      "date": "9 Oktober 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 23,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "9LYF",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6287778405247@s.whatsapp.net": {
+      "name": "~Rey",
+      "id": "6287778405247",
+      "date": "9 Oktober 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 5,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "GCSP",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    },
+    "6289513081052@s.whatsapp.net": {
+      "name": "AdrianDev.",
+      "id": "6289513081052",
+      "date": "9 Oktober 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 1,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "KPWM",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false
+    }
+  },
+  "chats": {},
+  "settings": {
+    "settingbot": {
+      "status": 1687749168865,
+      "setmenu": "document",
+      "docType": "docx",
+      "Qoted": "ftoko",
+      "autoBio": false,
+      "multi": true,
+      "prefix": "!",
+      "fake": "Lanabotz",
+      "autoblockcmd": false,
+      "fake1": "Extream",
+      "replyType": "web",
+      "setwelcome": "type11",
+      "autoReport": true,
+      "autoLevel": true,
+      "autoSticker": false
+    }
+  },
+  "kickon": {},
+  "others": {
+    "runtime": {
+      "runtime": 1696836533059,
+      "lastTime": 1696855054261
+    }
+  }
+}
